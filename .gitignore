@@ -1,0 +1,9 @@
+.idea/
+__pycache__/
+.pytest_cache
+workspace
+agent-4-
+.zip
+.env
+agent-4-*
+venv
