@@ -3,3 +3,4 @@ PyYAML==5.3.1
 Django==1.4
 requests==1.2.3
 Jinja2==2.10
+djangorestframework==3.11.1
